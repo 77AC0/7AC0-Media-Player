@@ -35,7 +35,7 @@ Then, Click a song in the list you want to play and click the play button. If yo
 #### Q. I have an issue, How can I let you know about it?<br>
 ##### A. Post your issue at https://github.com/77AC0/7AC0MediaPlayer/issues and I will try to fix it ASAP!
 
-#### Q. Are you a noob at github?
+#### Q. Are you a noob at github?<br>
 ##### A. Give me a break, Honestly.
 
 ---
