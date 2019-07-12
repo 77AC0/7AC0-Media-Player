@@ -1,0 +1,15 @@
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Debug\7AC0Player2.exe.config
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Debug\7AC0Player2.exe
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Debug\7AC0Player2.pdb
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Debug\DiscordRPC.xml
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Debug\NAudio.xml
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.csprojAssemblyReference.cache
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\_7AC0Player2.Properties.Resources.resources
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.csproj.GenerateResource.cache
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.csproj.CoreCompileInputs.cache
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.csproj.Fody.CopyLocal.cache
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.csproj.CopyComplete
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.exe
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\7AC0Player2.pdb
+C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Debug\_7AC0Player2.Form1.resources
