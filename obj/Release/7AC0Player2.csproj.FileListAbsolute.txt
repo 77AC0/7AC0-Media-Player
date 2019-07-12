@@ -17,10 +17,4 @@ C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Release\7AC0MediaP
 C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Release\7AC0MediaPlayer.application
 C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Release\7AC0MediaPlayer.exe
 C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Release\7AC0MediaPlayer.pdb
-C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Release\_7AC0Player2.Form2.resources
 C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\obj\Release\7AC0MediaPlayer.TrustInfo.xml
-C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Release\LtGt.xml
-C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Release\Sprache.xml
-C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Release\YoutubeExplode.xml
-C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Release\System.Net.Http.Formatting.xml
-C:\Users\TacoGamer\source\repos\7AC0Player2.0\7AC0Player2\bin\Release\NReco.VideoConverter.xml

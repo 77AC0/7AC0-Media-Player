@@ -55,14 +55,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="7AC0MediaPlayer.exe" size="18151424">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="7AC0MediaPlayer.exe" size="965632">
       <assemblyIdentity name="7AC0MediaPlayer" version="1.0.0.0" language="neutral" processorArchitecture="amd64" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>HM5uCEmg7qs+a8evEtKrya45tYuu8OmNiajTNksbyKo=</dsig:DigestValue>
+        <dsig:DigestValue>FeH/wUZa0ofNFk7LiJ/gRRNxKRKVSpkWCIetT9nv6Y8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
